@@ -5,6 +5,6 @@ This project processes a synthetic e-commerce dataset to demonstrate data engine
 ## Quick Start
 ```bash
 python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook
